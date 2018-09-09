@@ -1,0 +1,10 @@
+{
+    "name":"nombre mystere",
+    "description": "Simple TDD",
+    "scripts": {
+        "test":"./vendor/bin/phpunit ./tests/tests.php"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
